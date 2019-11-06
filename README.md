@@ -1,4 +1,4 @@
-# BusPlayer
+# Simple Videoplayer with a playlist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 Also working with VIDEOGULAR2 (https://videogular.github.io/videogular2/)
