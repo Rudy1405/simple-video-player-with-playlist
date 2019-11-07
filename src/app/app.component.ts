@@ -17,7 +17,7 @@ export class AppComponent {
   playlist: Array<IMedia> = [
     {
         title: 'Countdowm',
-        src: '../assets/video.mp4',
+        src: 'http://static.videogular.com/assets/videos/elephants-dream.mp4',
         type: 'video/mp4'
     },
     {
@@ -42,7 +42,7 @@ export class AppComponent {
     },
     {
         title: 'Elephants Dream',
-        src: 'http://static.videogular.com/assets/videos/elephants-dream.mp4',
+        src: '../assets/video.mp4',
         type: 'video/mp4'
     }
   ];
